@@ -14,6 +14,9 @@ mod solution_66;
 mod solution_67;
 mod solutioon_69;
 mod solution_70;
+mod solution_88;
+mod solution_121;
+mod solution_125;
 
 fn main() {
     println!("Hello, world!");
